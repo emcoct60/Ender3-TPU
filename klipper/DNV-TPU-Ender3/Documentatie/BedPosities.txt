@@ -1,0 +1,26 @@
+Met de DropEffect OmniaDrop V2.1 kop:
+
+Posities endstops:
+X = -13.5
+Y = -29
+
+Dus afstelling voor BLTouch:
+X: 117.5
+Y: 117.5
+Naar bltouch:
+X: 151.2
+Y: 84
+
+Verschil kop tov de bltouch:
+X: 151.2 - 117.5 = 33.7
+Y:  84   - 117.5 = -33.5
+
+BLTouch in het midden van het bed:
+X: 117.5 - 33.7 = 83.8
+Y: 117.5 + 33.5 = 151
+
+Locatie bed schroeven onder de nozzle:
+LV:  25, 31
+RV: 196, 31
+RA: 196,206
+LA:  25,206
